@@ -169,7 +169,7 @@ Decimal.grid(row=5,column=2)
 
 Div=Button(f2,padx=16,pady=16,bd=4, fg="white", font=('ariel', 20 ,'bold'),text="/",bg="black", command=lambda: btnclick("/") )
 Div.grid(row=5,column=3)
-status = Label(f2,font=('aria', 15, 'bold'),width = 16, text="By Amit Raut",bd=2,relief=SUNKEN)
+status = Label(f2,font=('aria', 15, 'bold'),width = 16, text="By Amit Kumar",bd=2,relief=SUNKEN)
 status.grid(row=7,columnspan=3)
 
 #................................................................................................
