@@ -1,4 +1,4 @@
-# restraunt
+# Restraunt management system 
 This is a basic program which gives us an overview of the program that the client or customer uses when he comes to the restaurant.
 For using this program he or she must install it on their device and then use it. 
 This device will ideally decrease time to order food and will also automate the process of billing also.
